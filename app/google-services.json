@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7526840715",
+    "firebase_url": "https://realtime-db-web-f1fff.firebaseio.com",
+    "project_id": "realtime-db-web-f1fff",
+    "storage_bucket": "realtime-db-web-f1fff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7526840715:android:df87a8cbe9012f4783d78e",
+        "android_client_info": {
+          "package_name": "com.example.descfilm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7526840715-bn8cgnb99pmi54epkbv5b92dh4jn4fhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2YSL3X4gq78gUqj2fhfNkpIb6rsZVaQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7526840715-bn8cgnb99pmi54epkbv5b92dh4jn4fhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
